@@ -9,7 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&lines=Software+Engineering+Student+@+ICET+Institute;Aspiring+Full+Stack+Developer;Tech+Explorer+%7C+Creative+Learner+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
-
 ---
 
 ### 🌱 About Me
@@ -17,7 +16,7 @@
 - 🎓 I’m currently pursuing a **Diploma in Software Engineering** at **ICET Institute**
 - 💡 Passionate about **coding, technology, and building creative projects**
 - 🧠 Currently learning **Object-Oriented Programming, Data Structures, and Web Development**
-- ⚡ Fun fact: I can spend hours debugging — but only minutes finishing assignments 😅
+- 🚀 I love exploring new technologies and improving my programming skills every day
 - 🎯 Goal: Become a **Full Stack Developer** and work at a **world-renowned tech company**
 
 ---
@@ -36,7 +35,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,html,css,javascript,mysql,git,vscode" />
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans" />
 </p>
 
 ---
@@ -59,14 +57,4 @@
 
 ---
 
-### ☕ Support Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shameel-shajaad/" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" height="40" alt="Support Me" />
-  </a>
-</p>
-
----
-
-⭐ **"Keep learning, keep building — success is just a few lines of code away!"**
+⭐ **"Keep learning, keep building — every line of code brings you closer to your dream!"**
