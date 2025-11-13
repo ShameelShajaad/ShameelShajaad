@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&lines=Software+Engineering+Student+@+ICET+Institute;Aspiring+Full+Stack+Developer;Tech+Explorer+%7C+Creative+Learner+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&lines=Software+Engineering+Student+@+ICET+Institute;Aspiring+Full+Stack+Developer+%7C+Tech+Explorer+%7C+Creative+Learner" alt="Typing SVG" />
 </p>
 
 ---
@@ -39,21 +39,37 @@
 
 ---
 
+### ⚡ Fun Fact
+
+> “I may spend hours perfecting my code — but I still forget where I saved my files 😅”
+
+---
+
 ### 🏆 GitHub Trophies
 
+<br/>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShameelShajaad&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShameelShajaad&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15" />
 </p>
+
+<br/>
 
 ---
 
 ### 📊 GitHub Stats
 
+<br/>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShameelShajaad&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShameelShajaad&theme=tokyonight&hide_border=true" />
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShameelShajaad&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<br/>
 
 ---
 
