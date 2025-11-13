@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&lines=Software+Engineering+Student+@+ICET+Institute;Aspiring+Full+Stack+Developer+%7C+Tech+Explorer+%7C+Creative+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&lines=Software+Engineering+Student+@+ICET+Institute" alt="Typing SVG" />
 </p>
 
 ---
@@ -65,7 +65,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ShameelShajaad&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShameelShajaad&theme=tokyonight&hide_border=true" />
-  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShameelShajaad&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -73,4 +72,4 @@
 
 ---
 
-⭐ **"Keep learning, keep building — every line of code brings you closer to your dream!"**
+⭐ **"Keep learning, keep building — success is just a few lines of code away!"**
