@@ -1,73 +1,71 @@
-# Hi, I'm Shameel Shajaad 👋
+<h1 align="center">Hi, I'm Shameel Shajaad 👋</h1>
+<h3 align="center">A passionate Software Engineering Student from Sri Lanka 🇱🇰</h3>
 
-**Always excited to learn, build, and collaborate!**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShameelShajaad&label=Profile%20views&color=0e75b6&style=flat" alt="ShameelShajaad" />
+</p>
 
----
-
-![Top banner](assets/images/logo.png)
-
-### About me
-- Diploma in Software Engineering — ICET Institute  
-- Passionate about Java, web development, and building practical projects for coursework and portfolios  
-- Currently learning more about full-stack web dev, data structures, and UI/UX for desktop apps
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&lines=Software+Engineering+Student+@+ICET+Institute;Aspiring+Full+Stack+Developer;Tech+Explorer+%7C+Creative+Learner+%7C+Problem+Solver" alt="Typing SVG" />
+</p>
 
 ---
 
-### ⚡ What I’m learning
-- Advanced Java (Swing, file handling, data structures)  
-- Frontend: HTML, CSS, JavaScript (vanilla)  
-- Web basics: Node.js (next project), REST APIs, and basic deployment  
-- Databases: file-based persistence now → planning to learn SQL/NoSQL soon
+### 🌱 About Me
+
+- 🎓 I’m currently pursuing a **Diploma in Software Engineering** at **ICET Institute**
+- 💡 Passionate about **coding, technology, and building creative projects**
+- 🧠 Currently learning **Object-Oriented Programming, Data Structures, and Web Development**
+- ⚡ Fun fact: I can spend hours debugging — but only minutes finishing assignments 😅
+- 🎯 Goal: Become a **Full Stack Developer** and work at a **world-renowned tech company**
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shameel-shajaad/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
 ### 🧰 Languages & Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![NetBeans](https://img.shields.io/badge/NetBeans-007396?style=flat&logo=netbeans&logoColor=white)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,mysql,git,vscode" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans" />
+</p>
 
 ---
 
-### 🚀 Featured Projects
+### 🏆 GitHub Trophies
 
-**IHungryBurgerShop — LinkedList Edition (Java / Swing)**  
-A full GUI-based burger ordering system (school coursework). Uses a custom `Node` linked list for in-memory order management with pages for placing, viewing, updating, and categorising orders (Processing, Delivered, Cancelled).  
-`→` `https://github.com/ShameelShajaad/IHungryBurgerShop-LinkedList-Edition` *(sample repo name)*
-
-**IHungryBurgerShop — File Handling Edition (Java / Swing)**  
-Earlier version that persists orders in `Burger.txt` using FileWriter / BufferedReader. Great for demonstrating file I/O + OOP concepts.  
-`→` `https://github.com/ShameelShajaad/IHungryBurgerShop-FileHandling-Edition`
-
-**Day of the Week Finder (HTML/CSS/JS)**  
-A small web app that calculates the weekday for any date with input validation and leap year handling.  
-`→` `https://github.com/ShameelShajaad/DayOfTheWeekFinder`
-
-> More projects (web, Java, small scripts) available on my GitHub.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShameelShajaad&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
 ---
 
-### ✉️ Connect with me
-- LinkedIn: `https://www.linkedin.com/in/shameel-shajaad` *(replace with your link)*  
-- Email: `shameel@example.com` *(replace with real email if you want)*
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShameelShajaad&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShameelShajaad&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShameelShajaad&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShameelShajaad&show_icons=true&theme=radical)
+### ☕ Support Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shameel-shajaad/" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" height="40" alt="Support Me" />
+  </a>
+</p>
 
 ---
 
-### ☕ Support
-If you find my projects useful, you can buy me a coffee: `https://ko-fi.com/your-kofi` *(optional)*
-
----
-
-### Fun fact
-I can debug code faster than I can decide what to eat 🍔
-
----
-
-**Made with ❤️ by Shameel Shajaad**  
-*ICET Institute — Diploma in Software Engineering*
+⭐ **"Keep learning, keep building — success is just a few lines of code away!"**
