@@ -9,6 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&lines=Software+Engineering+Student+@+ICET+Institute;Aspiring+Full+Stack+Developer;Tech+Explorer+%7C+Creative+Learner+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
+
 ---
 
 ### 🌱 About Me
