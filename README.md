@@ -5,9 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=ShameelShajaad&label=Profile%20views&color=0e75b6&style=flat" alt="ShameelShajaad" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&lines=Software+Engineering+Student+@+ICET+Institute" alt="Typing SVG" />
-</p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&lines=Software+Engineering+Student+@+ICET+Institute" alt="Typing SVG" /></p>
+
 
 ---
 
@@ -41,7 +40,7 @@
 
 ### ⚡ Fun Fact
 
-> “I may spend hours perfecting my code — but I still forget where I saved my files 😅”
+> “🌙 Nighttime is when my best projects come alive.”
 
 ---
 
